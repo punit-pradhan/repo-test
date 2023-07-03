@@ -1,0 +1,4 @@
+name: git-repo-test
+recipe: drupal10
+config:
+  webroot: web
